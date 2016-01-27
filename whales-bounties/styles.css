@@ -1,0 +1,23 @@
+body {
+  background-color: #f5f5f5;
+}
+
+.bounty-panel {
+  padding: 15px;
+  background-color: #fff;
+}
+
+.currency {
+  color: #f3ab4c;
+  margin-right: 15px;
+}
+
+.label {
+  background-color: #fff;
+  border: 1px solid #aaa;
+  color: #aaa;
+}
+
+.label-warning {
+  color: #f64f5a;
+}
